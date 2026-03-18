@@ -11,7 +11,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
 
-            //Amanda TRabalhando na branch dela Commit A, Amanda Continua trabalhando aqui....
+            //Amanda TRabalhando na branch dela Commit A, Colega mexeu aquui, Amanda Continua trabalhando aqui....
         }
 
         // Coleguinha Trabalhou e Commitou - B
