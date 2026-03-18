@@ -13,5 +13,7 @@ public class Main {
 
             //Amanda TRabalhando na branch dela Commit A
         }
+
+        // Coleguinha Trabalhou e Commitou - B
     }
 }
